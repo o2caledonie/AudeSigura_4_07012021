@@ -394,7 +394,7 @@ blockquote {
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
-        top: 50%;
+        top: 35%;
         right: 20px;
         transform: translate(0, -50%);
         -webkit-transform: translateY(-50%);
