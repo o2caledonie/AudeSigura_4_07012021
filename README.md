@@ -9,10 +9,10 @@ Aim of the project was to optimize La Chouette Agence website in order to improv
 
 ## Skills
 
-:white_check_mark: Website audit for SEO, performances and best practices usign Google Lighthouse
-:white_check_mark: Ensure accessibility (WCAG standards)
-:white_check_mark: Ensure design consistency on a website
-:white_check_mark: Write a comparison analysis report
+:white_check_mark: Website audit for SEO, performances and best practices usign Google Lighthouse ;
+:white_check_mark: Ensure accessibility (WCAG standards) ;
+:white_check_mark: Ensure design consistency on a website ;
+:white_check_mark: Write a comparison analysis report ;
 
 
 
